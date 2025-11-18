@@ -1,18 +1,18 @@
-️1.Python - Python 3.8+ is recommended
-2.Jupyter Notebook / Jupyter Lab - For running interactive notebooks.
-3.Python Libraries -
+#️# 1.Python - Python 3.8+ is recommended
+## 2.Jupyter Notebook / Jupyter Lab - For running interactive notebooks.
+## 3.Python Libraries -
 Install the following libraries using pip:
 pip install numpy pandas matplotlib seaborn nltk spacy scikit-learn
-4.NLTK Downloads
+## 4.NLTK Downloads
 Some NLTK functions require additional datasets:
 import nltk
 nltk.download('punkt')       # Tokenizer models
 nltk.download('stopwords')   # Stopwords list
 nltk.download('wordnet')     # Lemmatizer
 
-5.spaCy Model-For lemmatization, POS tagging, and NER:
+## 5.spaCy Model-For lemmatization, POS tagging, and NER:
 python -m spacy download en_core_web_sm
 ️
-6.Optional / Visualization Libraries
+## 6.Optional / Visualization Libraries
 For advanced plots and analysis:
 pip install wordcloud plotly
