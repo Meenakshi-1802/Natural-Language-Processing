@@ -1,7 +1,7 @@
 # 🧠 Natural Language Processing (NLP)
 
 ## *Welcome to my Natural Language Processing (NLP) repository!*
-### This repo contains my complete hands-on journey through essential NLP concepts — from basic text preprocessing to advanced techniques like word embeddings and sense disambiguation.
+This repo contains my complete hands-on journey through essential NLP concepts — from basic text preprocessing to advanced techniques like word embeddings and sense disambiguation.
 
 It also includes practice exercises and real mini-projects to strengthen foundational skills required for Data Analyst, ML Engineer, and NLP beginner roles.
 
