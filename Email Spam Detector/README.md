@@ -4,12 +4,16 @@
 An end-to-end machine learning project that classifies emails as Spam or Not Spam using traditional NLP preprocessing and ML algorithms.
 This project focuses on clarity, simplicity, and learning the fundamentals of text classification.
 
+--- 
+
 # 🚀 Project Overview
 
 The Email Spam Detector is a supervised machine learning model trained on a labeled dataset of emails.
 It transforms raw email text into numerical feature vectors using TF-IDF Vectorization, then trains a classifier to distinguish between spam and ham (non-spam).
 
 This project is perfect for beginners to understand how machine learning is used in real-world text classification tasks.
+
+---
 
 # 🧠 Key Features
 
@@ -21,23 +25,9 @@ This project is perfect for beginners to understand how machine learning is used
 
 #### ✔️ Evaluation using accuracy, confusion matrix, and classification report
 
-#### ✔️ Saved model & vectorizer using .pkl (optional)
+#### ✔️ Saved model & vectorizer using .pkl 
 
-# 📂 Project Structure
-Email-Spam-Detector/
-│
-├── data/
-│   └── spam.csv
-│
-├── notebooks/
-│   └── spam_classifier.ipynb
-│
-├── models/
-│   ├── tfidf_vectorizer.pkl     
-│   └── spam_model.pkl           
-│
-├── README.md
-└── requirements.txt (optional)
+---
 
 # 🛠️ Technologies Used
 
@@ -53,7 +43,9 @@ Email-Spam-Detector/
 
 - Train–test split
 
-- Naive Bayes / Logistic Regression 
+- Naive Bayes / Logistic Regression
+
+---
 
 # 🔍 How It Works
 ## 1️⃣ Load Dataset
@@ -90,14 +82,15 @@ Transform emails into numerical vectors using TfidfVectorizer.
 
 - spam_model.pkl
 
-If you want deployment later, saving is useful.
-If not, you can skip saving these files.
+---
 
 # 📊 Model Performance
 
 - **Accuracy:** 97.30%
 
-## ▶️ How to Run
+---
+
+# ▶️ How to Run
 
 1. Clone the repository
    
