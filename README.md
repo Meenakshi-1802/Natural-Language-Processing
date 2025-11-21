@@ -54,7 +54,7 @@ It also includes practice exercises and real mini-projects to strengthen foundat
 
 **This project demonstrates applied NLP and basic machine learning.**
 
-#🛠️ Tech Stack Used
+# 🛠️ Tech Stack Used
 
 - Python
 
